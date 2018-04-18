@@ -1,6 +1,6 @@
 # CarMove
 
-�o�O�M�����եΪ�micro:bit�n��
+³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì
 
 ## License
 
