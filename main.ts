@@ -1,7 +1,7 @@
 //% weight=0 color=#3CB371 icon="\uf36e" block="CarMove"
 namespace CarMove{
     /**
-    * ­pºâªø¤è§Î­±¿n¡A¨Ã¦^¶Ç
+    * è¨ˆç®—é•·æ–¹å½¢é¢ç©ï¼Œä¸¦å›å‚³
     */
     //% blockId="Left Move Forward" block="Left Move Forward %Speed"
     //% blockGap=2 weight=0 blockExternalInputs=true
@@ -21,7 +21,7 @@ buf[4] = (4095 >> 8) & 0xff
 pins.i2cWriteBuffer(0x41, buf, false)
     }
     /**
-    * ­pºâªø¤è§Î­±¿n¡A¤£¦^¶Ç¡A¥uÅã¥Ü¦bLED
+    * è¨ˆç®—é•·æ–¹å½¢é¢ç©ï¼Œä¸å›å‚³ï¼Œåªé¡¯ç¤ºåœ¨LED
     */
     //% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
     //% blockGap=2 weight=1
